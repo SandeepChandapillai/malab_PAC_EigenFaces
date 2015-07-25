@@ -1,0 +1,14 @@
+function [ Mean ] = getMeanFace( Face )
+% getMeanFace Matrix of FaceVectors [Col Vec] . 
+%   returns the Mean
+
+[row,col] = size(Face);
+
+for i = 1 : 1 : row
+    
+end
+
+
+
+end
+

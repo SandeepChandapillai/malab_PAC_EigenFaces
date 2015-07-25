@@ -1,0 +1,10 @@
+function [ output_args ] = limitEigenFaces( input_args )
+%limitEigenFaces  Rather than using the entire EigenFace set for prediction
+%use a limited num.
+%   We do not need the entire set for prediction 
+% The large
+%   Detailed explanation goes here
+
+
+end
+

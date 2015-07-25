@@ -1,0 +1,15 @@
+function [ faceVecMatrix ] = faceToMat( stringColVec )
+%faceToMat : Create a matrix contaiting Face Vectors . 
+%   The input should be a col Vec , containing all the image that you want
+%   to be added to the faceMat 
+[row , col ] = size(stringColVec);
+if col ~= 1 
+   disp('Error Requrie Col Vec o') 
+end
+
+
+
+
+
+end
+
